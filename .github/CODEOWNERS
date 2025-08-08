@@ -1,6 +1,6 @@
-# Development branch code owners - Frontend
-# .github folder managed by bikaze
-/.github/ @bikaze
+# Staging branch code owners
+# Global owners for all files (except .github/)
+*  @sntakirutimana72
 
-# Everything else managed by frontend team
-* @bencyubahiro77 @aimerukundo @tharcissie
+# GitHub folder specific owners
+.github/ @bikaze
