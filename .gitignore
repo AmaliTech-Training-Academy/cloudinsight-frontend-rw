@@ -1,0 +1,2 @@
+# Ignore CODEOWNERS changes to maintain identical commit hashes across branches
+.github/CODEOWNERS
