@@ -1,5 +1,6 @@
-# Global owners for all files (except .github/)
-*  @bencyubahiro77 @aimerukundo @tharcissie
+# Development branch code owners - Frontend
+# .github folder managed by bikaze
+/.github/ @bikaze
 
-# GitHub folder specific owners
-.github/ @bikaze
+# Everything else managed by frontend team
+* @bencyubahiro77 @aimerukundo @tharcissie
